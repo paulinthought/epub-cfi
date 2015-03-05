@@ -5,6 +5,7 @@
 var NodeTypeError = require('./errors/node-type')
 var OutOfRangeError = require('./errors/out-of-range')
 var TerminusError = require('./errors/terminus')
+var $ = require('jquery')
 
 var Instructions = {
 
